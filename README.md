@@ -1,0 +1,1 @@
+Additional information related to project can be found in the RecipeManager Guide.pdf document.
